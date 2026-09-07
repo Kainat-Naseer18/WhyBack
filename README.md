@@ -72,6 +72,7 @@ backend/
 │   ├── __init__.py
 │   └── health.py
 └── __init__.py
+```
 ## Backend Setup
 
 ### 1. Create a virtual environment
